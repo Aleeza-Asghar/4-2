@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "002 4.1-Webpages",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3.3 Image Elements",
+		"liveServer.settings.port": 5501
+	}
+}
